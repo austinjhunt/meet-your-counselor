@@ -1,0 +1,530 @@
+[
+    {
+        "counselor": {
+            "name": "Wendy Stephens",
+            "email": "stephensw@cofc.edu",
+            "photo": "/admission/counselors/images/wendy-stephens1.jpg",
+            "description": "<p>Wendy is from North Charleston, SC, and studied elementary education while at the College. Wendy focuses on helping adult students streamline their pathways to degree completion.</p>",
+            "pageLink": "/admission/counselors/counselors-list/wendy-stephens.php"
+        },
+        "territories": [],
+        "otherResponsibilities": [
+            "Bachelor of Professional Studies"
+        ]
+    },
+    {
+        "counselor": {
+            "name": "Michelle Futrell",
+            "email": "futrellm@cofc.edu",
+            "photo": "/admission/counselors/images/michelle-futrell.jpg",
+            "description": "<p>Michelle is a native Virginian and studied physical education while at the College. Michelle focuses on helping adult students streamline their pathways to degree completion.</p>",
+            "pageLink": "/admission/counselors/counselors-list/michelle-futrell.php"
+        },
+        "territories": [],
+        "otherResponsibilities": [
+            "Bachelor of Professional Studies"
+        ]
+    },
+    {
+        "counselor": {
+            "name": "Tina MacDonald",
+            "email": "macdonaldt@cofc.edu",
+            "photo": "/admission/counselors/images/tina-macdonald-23.jpg",
+            "description": "Tina works primarily with our international student population. She was born in Japan, but grew up in New England, USA.&#160;&#160;If you are an interested international student, feel free to reach out to her with any questions you may have about the College of Charleston. Tina is happy to help, and looks forward to getting to know you!",
+            "pageLink": "/admission/counselors/counselors-list/tina-macdonald.php"
+        },
+        "territories": [],
+        "otherResponsibilities": [
+            "International (non-US)",
+            "Home School",
+            "GED"
+        ]
+    },
+    {
+        "counselor": {
+            "name": "Kenyatta Grimmage",
+            "email": "grimmagekc@cofc.edu",
+            "photo": "/admission/counselors/images/kenyatta-grimmage.jpg",
+            "description": "<p><span>Kenyatta has over 15 years of experience in education. He previously served as an academic counselor for College of Charleston's Upward Bound and Pre-College Programs.As a student, he was an active member of Alpha Phi Alpha Fraternity Inc.</span></p>",
+            "pageLink": "/admission/counselors/counselors-list/kenyatta-grimmage.php"
+        },
+        "territories": [
+            {
+                "state": "SC",
+                "county": "Chesterfield County"
+            },
+            {
+                "state": "SC",
+                "county": "Clarendon"
+            },
+            {
+                "state": "SC",
+                "county": "Darlington County"
+            },
+            {
+                "state": "SC",
+                "county": "Dillon County"
+            },
+            {
+                "state": "SC",
+                "county": "Florence County"
+            },
+            {
+                "state": "SC",
+                "county": "Georgetown"
+            },
+            {
+                "state": "SC",
+                "county": "Horry County"
+            },
+            {
+                "state": "SC",
+                "county": "Marion County"
+            },
+            {
+                "state": "SC",
+                "county": "Marlboro County"
+            },
+            {
+                "state": "SC",
+                "county": "Orangeburg"
+            },
+            {
+                "state": "SC",
+                "county": "Williamsburg"
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Eira Sabido",
+            "email": "sabidoe@cofc.edu",
+            "photo": "/admission/counselors/images/eira-sabido.jpeg",
+            "description": "<p><span>Eira is from El Paso, Texas, but grew up in Florence, SC.&#160; She graduated from Francis Marion University with a Bachelors in Public Relations. Currently,&#160; Eira live in&#160;Charleston, S.C. and cannot wait to meet future Cougars!&#160;</span></p>",
+            "pageLink": "/admission/counselors/counselors-list/eira-sabido.php"
+        },
+        "territories": [
+            {
+                "state": "SC",
+                "county": "Allendale County"
+            },
+            {
+                "state": "SC",
+                "county": "Bamberg County"
+            },
+            {
+                "state": "SC",
+                "county": "Barnwell County"
+            },
+            {
+                "state": "SC",
+                "county": "Beaufort County"
+            },
+            {
+                "state": "SC",
+                "county": "Berkeley County"
+            },
+            {
+                "state": "SC",
+                "county": "Charleston County"
+            },
+            {
+                "state": "SC",
+                "county": "Colleton County"
+            },
+            {
+                "state": "SC",
+                "county": "Dorchester County"
+            },
+            {
+                "state": "S.C.",
+                "county": "Hampton County"
+            },
+            {
+                "state": "S.C.",
+                "county": "Jasper County"
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Justin Lyons",
+            "email": "jtlyons@cofc.edu",
+            "photo": "/admission/counselors/images/lyons-justin.jpg",
+            "description": "<p>Justin is from Fort Mill, SC, and joined the Cougar family as an undergraduate in 2010. He quickly immersed himself in the campus community, becoming a campus Senator, Tour Guide, and an active member of the Spanish Department. Since graduating, he has worked in study abroad, residence life, and admissions, and most recently he taught high school Spanish. He is thrilled to re-join CofC to help students realize all that Charleston has to offer!</p>",
+            "pageLink": "/admission/counselors/counselors-list/justin-lyons.php"
+        },
+        "territories": [
+            {
+                "state": "NC",
+                "county": ""
+            },
+            {
+                "state": "SC",
+                "county": "Lancaster"
+            },
+            {
+                "state": "SC",
+                "county": "York"
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Madison Turner",
+            "email": "turnerm5@cofc.edu",
+            "photo": "/admission/counselors/images/madison-turner.jpeg",
+            "description": "Madison is from Orlando, Florida and studied psychology during her college studies at Clemson University. Currently, Madison resides in&#160;Charleston, S.C. and cannot wait to meet future Cougars!&#160;She is happy to help answer any questions.",
+            "pageLink": "/admission/counselors/counselors-list/madison-turner.php"
+        },
+        "territories": [
+            {
+                "state": "FL",
+                "county": ""
+            },
+            {
+                "state": "GA",
+                "county": ""
+            },
+            {
+                "state": "IL",
+                "county": ""
+            },
+            {
+                "state": "OH",
+                "county": ""
+            },
+            {
+                "state": "TN",
+                "county": ""
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Grace Vail",
+            "email": "vailge@cofc.edu",
+            "photo": "/admission/counselors/images/grace-vail.jpeg",
+            "description": "Grace is from Southampton, New York, and a 2018 College of Charleston graduate. She studied English and Business Administration, and is always happy to answer questions about the place she loves the most - Charleston!",
+            "pageLink": "/admission/counselors/counselors-list/grace-vail.php"
+        },
+        "territories": [
+            {
+                "state": "CT",
+                "county": ""
+            },
+            {
+                "state": "MA",
+                "county": ""
+            },
+            {
+                "state": "ME",
+                "county": ""
+            },
+            {
+                "state": "NH",
+                "county": ""
+            },
+            {
+                "state": "RI",
+                "county": ""
+            },
+            {
+                "state": "VT",
+                "county": ""
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Kadeem Sabari",
+            "email": "sabario@cofc.edu",
+            "photo": "/admission/counselors/images/kadeem-sabari.jpg",
+            "description": "<p><span>Kadeem is from Hartsville, S.C. and graduated from the University of South Carolina with a degree in Music Education in 2016. He taught in public schools for several years before relocating to Texas in 2021. He resides in the DFW area and is excited to get to know you and your families!</span></p>",
+            "pageLink": "/admission/counselors/counselors-list/kadeem-sabari.php"
+        },
+        "territories": [
+            {
+                "state": "AL",
+                "county": ""
+            },
+            {
+                "state": "AR",
+                "county": ""
+            },
+            {
+                "state": "AZ",
+                "county": ""
+            },
+            {
+                "state": "IA",
+                "county": ""
+            },
+            {
+                "state": "ID",
+                "county": ""
+            },
+            {
+                "state": "IN",
+                "county": ""
+            },
+            {
+                "state": "KS",
+                "county": ""
+            },
+            {
+                "state": "KY",
+                "county": ""
+            },
+            {
+                "state": "LA",
+                "county": ""
+            },
+            {
+                "state": "MI",
+                "county": ""
+            },
+            {
+                "state": "MN",
+                "county": ""
+            },
+            {
+                "state": "MO",
+                "county": ""
+            },
+            {
+                "state": "MS",
+                "county": ""
+            },
+            {
+                "state": "MT",
+                "county": ""
+            },
+            {
+                "state": "ND",
+                "county": ""
+            },
+            {
+                "state": "NE",
+                "county": ""
+            },
+            {
+                "state": "NM",
+                "county": ""
+            },
+            {
+                "state": "NV",
+                "county": ""
+            },
+            {
+                "state": "NY",
+                "county": ""
+            },
+            {
+                "state": "OK",
+                "county": ""
+            },
+            {
+                "state": "OR",
+                "county": ""
+            },
+            {
+                "state": "SD",
+                "county": ""
+            },
+            {
+                "state": "TX",
+                "county": ""
+            },
+            {
+                "state": "UT",
+                "county": ""
+            },
+            {
+                "state": "WA",
+                "county": ""
+            },
+            {
+                "state": "WV",
+                "county": ""
+            },
+            {
+                "state": "WI",
+                "county": ""
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Will Chase",
+            "email": " chasew@cofc.edu",
+            "photo": "/admission/counselors/images/will-chase.jpg",
+            "description": "<p>Will is a native of Raleigh, N.C. and has called College of Charleston home since 2017 where he serves as the Director of Recruitment and Selection.</p>",
+            "pageLink": "/admission/counselors/counselors-list/will-chase.php"
+        },
+        "territories": [
+            {
+                "state": "AK",
+                "county": ""
+            },
+            {
+                "state": "CA",
+                "county": ""
+            },
+            {
+                "state": "CO",
+                "county": ""
+            },
+            {
+                "state": "HI",
+                "county": ""
+            },
+            {
+                "state": "WY",
+                "county": ""
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Kaylin Bouknight",
+            "email": "bouknightk@cofc.edu",
+            "photo": "/admission/counselors/images/kaylin-bouknight.jfif",
+            "description": "<p>Kaylin Bouknight is from North Royalton, Ohio and studied Sport and Entertainment Management for her undergraduate degree at Ohio University and graduate degree at the University of South Carolina. She is looking forward to helping you on your transfer journey!</p>",
+            "pageLink": "/admission/counselors/counselors-list/kaylin-bouknight.php"
+        },
+        "territories": [],
+        "otherResponsibilities": [
+            "Transfer Student"
+        ]
+    },
+    {
+        "counselor": {
+            "name": "Michelle McDowell",
+            "email": "mcdowellml@cofc.edu",
+            "photo": "/admission/counselors/images/michelle-mcdowell.jpg",
+            "description": "<p>With over 15 years of higher education experience, Michelle has served in several positions that have excelled under her in leadership. She also serves as an adjunct professor for the Darla Moore School of Business at the University of South Carolina.</p>",
+            "pageLink": "/admission/counselors/counselors-list/michelle-mcdowell.php"
+        },
+        "territories": [
+            {
+                "state": "SC",
+                "county": "Aiken County"
+            },
+            {
+                "state": "SC",
+                "county": "Calhoun County"
+            },
+            {
+                "state": "SC",
+                "county": "Edgefield County"
+            },
+            {
+                "state": "SC",
+                "county": "Fairfield County"
+            },
+            {
+                "state": "SC",
+                "county": "Kershaw County"
+            },
+            {
+                "state": "SC",
+                "county": "Lee County"
+            },
+            {
+                "state": "SC",
+                "county": "Lexington County"
+            },
+            {
+                "state": "SC",
+                "county": "Newberry County"
+            },
+            {
+                "state": "SC",
+                "county": "Richland County"
+            },
+            {
+                "state": "SC",
+                "county": "Saluda County"
+            },
+            {
+                "state": "SC",
+                "county": "Sumter County"
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Patrick Mazur",
+            "email": "mazurpj@cofc.edu",
+            "photo": "/admission/counselors/images/patrick-mazur.jpg",
+            "description": "<p>Patrick is from Chester County, Pennsylvania and studied photography during his college studies at George Mason University. In 2011, he attended Penn State University to later earn his Master of Business Administration degree in 2013. Currently, Patrick resides in Moorestown, NJ with his family and is looking forward to getting to know you during his upcoming travel season.</p>",
+            "pageLink": "/admission/counselors/counselors-list/patrick-mazur.php"
+        },
+        "territories": [
+            {
+                "state": "DE",
+                "county": ""
+            },
+            {
+                "state": "NJ",
+                "county": ""
+            },
+            {
+                "state": "PA",
+                "county": ""
+            }
+        ],
+        "otherResponsibilities": []
+    },
+    {
+        "counselor": {
+            "name": "Mat Garrison",
+            "email": "garrisonmj@cofc.edu",
+            "photo": "/admission/counselors/images/mat-garrison.jpg",
+            "description": "<p>Mat helps visiting students who are looking to take summer classes at the College. He also works with students who previously left the College with a GPA higher than a 2.0 and <a href='site://charleston.edu/admission/apply/readmitted/index'>want to be readmitted</a>. If you're interested in the <a href='site://charleston.edu/admission/apply/non-degree/index'>non-degree program</a> or the 60+ Tuition Exemption Program, Mat can help you.</p><br/><br/><p>Mat is responsible for helping several different types of students during the admissions process. If you're a military or veteran student, he is your FIRST STEP in the application process to the College of Charleston. He will evaluate your previous college credits or your Joint Services Transcripts (JST) to determine if you are right for the College of Charleston. Once that is determined, he will work with you on the application process.</p><br/><br/><p>STEP Readmission- The readmission of students who left with a GPA lower than a 2.0 and wish to return to the College is coordinated through the Office of Admissions and the Center for Academic Performance and Persistence (CAPP).</p>",
+            "pageLink": "/admission/counselors/counselors-list/mat-garrison.php"
+        },
+        "territories": [],
+        "otherResponsibilities": [
+            "Summer School",
+            "Readmit",
+            "Non-Degree",
+            "Dual Enrollment",
+            "60+",
+            "Military and Veteran"
+        ]
+    },
+    {
+        "counselor": {
+            "name": "Rebecca Drewry",
+            "email": "drewryrc@cofc.edu",
+            "photo": "/admission/counselors/images/drewry-profile.jpg",
+            "description": "<p>Rebecca joined the Cougar family as an undergraduate student in 2011. She quickly fell in love with the College and became an active member in the campus community-from Orientation to Men's Basketball! After living in Charleston for quite some time, she has since moved back to Virginia.</p>",
+            "pageLink": "/admission/counselors/counselors-list/rebecca-drewry.php"
+        },
+        "territories": [
+            {
+                "state": "DC",
+                "county": ""
+            },
+            {
+                "state": "MD",
+                "county": ""
+            },
+            {
+                "state": "VA",
+                "county": ""
+            }
+        ],
+        "otherResponsibilities": []
+    }
+]
