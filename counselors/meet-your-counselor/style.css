@@ -1,0 +1,100 @@
+.d-block {
+  display: block;
+}
+.search-container {
+  display: none;
+  transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+form.high-school-search {
+  width: 100%;
+  margin: 1rem auto;
+  text-align: center;
+}
+input.high-school-search {
+  width: 80%;
+  font-size: 1rem;
+  padding: 1.5rem;
+  margin: 1rem auto;
+  margin-bottom: 0;
+  box-sizing: border-box;
+}
+.suggestions {
+  width: 80%;
+  font-size: 1rem;
+  margin: 0px auto;
+  margin-top: 0;
+}
+.suggestions > button.school-button {
+  text-align: left;
+  padding: 1rem;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 0.8rem;
+  margin: 0.5rem;
+}
+.student-type-choice-container select {
+  height: 100%;
+}
+.student-type-choice-container div.span4 {
+  height: 100%;
+  font-size: 1rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.student-type-choice-container select {
+  height: 100%;
+  width: 100%;
+  color: black;
+  font-size: 1rem;
+  display: block;
+}
+#counselor-info-container {
+  min-height: 600px;
+}
+#extra-info {
+  margin: 1rem;
+}
+.counselor {
+  border-radius: 20px;
+  margin: 0 auto;
+  text-align: center;
+  opacity: 0;
+  transition: 0.6s linear;
+  margin-bottom: 1rem;
+}
+.counselor.show {
+  opacity: 1;
+}
+.counselor img {
+  transition: 0.3s linear;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  max-width: 100%;
+  max-height: 250px;
+  box-shadow: 10px 10px 10px #660000;
+}
+.counselor strong {
+  margin: 0.5rem;
+  margin-top: 2rem;
+  display: block;
+  font-size: 1.3rem;
+}
+#counselor-info-container .counselor a.cta {
+  background-color: #b9b19d;
+  color: white;
+  line-height: 3;
+  font-size: 1.3rem;
+  padding: 1rem;
+  border-radius: 20px;
+  text-decoration: none;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+  font-weight: bold;
+}
+#counselor-info-container .counselor a.cta:hover {
+  -webkit-box-shadow: grey 5px 5px 0px;
+  box-shadow: grey 5px 5px 0px;
+  background-color: #b03957;
+}
