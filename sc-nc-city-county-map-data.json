@@ -1,0 +1,4234 @@
+{
+  "SC": [
+    {
+      "city": "City/Town   ",
+      "county": "County"
+    },
+    {
+      "city": "Abbeville",
+      "county": "Abbeville"
+    },
+    {
+      "city": "Adamsburg",
+      "county": "Union"
+    },
+    {
+      "city": "Adams Run",
+      "county": "Charleston"
+    },
+    {
+      "city": "Adrian",
+      "county": "Horry"
+    },
+    {
+      "city": "Aiken",
+      "county": "Aiken"
+    },
+    {
+      "city": "Alcolu",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Allendale",
+      "county": "Allendale"
+    },
+    {
+      "city": "Alvin",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Anderson",
+      "county": "Anderson"
+    },
+    {
+      "city": "Andrews",
+      "county": "Georgetown"
+    },
+    {
+      "city": "Angelus",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Appleton",
+      "county": "Allendale"
+    },
+    {
+      "city": "Arcadia",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Ashpoo",
+      "county": "Colleton"
+    },
+    {
+      "city": "Ashton",
+      "county": "Colleton"
+    },
+    {
+      "city": "Atkins",
+      "county": "Lee"
+    },
+    {
+      "city": "Awendaw",
+      "county": "Charleston"
+    },
+    {
+      "city": "Aynor",
+      "county": "Horry"
+    },
+    {
+      "city": "Baldock",
+      "county": "Allendale"
+    },
+    {
+      "city": "Ballentine",
+      "county": "Richland"
+    },
+    {
+      "city": "Bamberg",
+      "county": "Bamberg"
+    },
+    {
+      "city": "Barnwell",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Batesburg",
+      "county": "Lexington"
+    },
+    {
+      "city": "Bath",
+      "county": "Aiken"
+    },
+    {
+      "city": "Beaufort",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Belton",
+      "county": "Anderson"
+    },
+    {
+      "city": "Bennetts Point",
+      "county": "Colleton"
+    },
+    {
+      "city": "Bennettsville",
+      "county": "Marlboro"
+    },
+    {
+      "city": "Bethera",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Bethune",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Bishopville",
+      "county": "Lee"
+    },
+    {
+      "city": "Blackburg",
+      "county": "Cherokee"
+    },
+    {
+      "city": "Blackstock",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Blackville",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Blair",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Blaney",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Blenheim",
+      "county": "Marlboro"
+    },
+    {
+      "city": "Blue Brick",
+      "county": "Marion"
+    },
+    {
+      "city": "Bluffton",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Blythewood",
+      "county": "Richland"
+    },
+    {
+      "city": "Bonneau",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Borden",
+      "county": "Sumter"
+    },
+    {
+      "city": "Bowling Green",
+      "county": "York"
+    },
+    {
+      "city": "Bowman",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Boykin",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Bradley",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Branchville",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Brunson",
+      "county": "Hampton"
+    },
+    {
+      "city": "Bucksport",
+      "county": "Horry"
+    },
+    {
+      "city": "Bucksville",
+      "county": "Horry"
+    },
+    {
+      "city": "Buffalo",
+      "county": "Union"
+    },
+    {
+      "city": "Burgess",
+      "county": "Horry"
+    },
+    {
+      "city": "Burton",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Cades",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Caesars Head",
+      "county": "Greenville"
+    },
+    {
+      "city": "Calhoun",
+      "county": "Pickens"
+    },
+    {
+      "city": "Calhoun Falls",
+      "county": "Abbeville"
+    },
+    {
+      "city": "Callison",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Camden",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Cameron",
+      "county": "Calhoun"
+    },
+    {
+      "city": "Campobello",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Candays",
+      "county": "Colleton"
+    },
+    {
+      "city": "Carlisle",
+      "county": "Union"
+    },
+    {
+      "city": "Cartersville",
+      "county": "Florence"
+    },
+    {
+      "city": "Cassatt",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Catawba",
+      "county": "York"
+    },
+    {
+      "city": "Cateechee",
+      "county": "Pickens"
+    },
+    {
+      "city": "Cayce",
+      "county": "Lexington"
+    },
+    {
+      "city": "Centenary",
+      "county": "Marion"
+    },
+    {
+      "city": "Central",
+      "county": "Pickens"
+    },
+    {
+      "city": "Chapin",
+      "county": "Lexington"
+    },
+    {
+      "city": "Chappells",
+      "county": "Newberry"
+    },
+    {
+      "city": "Charleston",
+      "county": "Charleston"
+    },
+    {
+      "city": "Charleston Heights",
+      "county": "Charleston"
+    },
+    {
+      "city": "Cheraw",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Cherokee Falls",
+      "county": "Cherokee"
+    },
+    {
+      "city": "Cherry Grove Beach",
+      "county": "Horry"
+    },
+    {
+      "city": "Chesnee",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Chester",
+      "county": "Chester"
+    },
+    {
+      "city": "Chesterfield",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Clarks Hill",
+      "county": "McCormick"
+    },
+    {
+      "city": "Claussen",
+      "county": "Florence"
+    },
+    {
+      "city": "Clearwater",
+      "county": "Aiken"
+    },
+    {
+      "city": "Clemson",
+      "county": "Oconee"
+    },
+    {
+      "city": "Cleveland",
+      "county": "Greenville"
+    },
+    {
+      "city": "Clifton",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Clinton",
+      "county": "Laurens"
+    },
+    {
+      "city": "Clio",
+      "county": "Marlboro"
+    },
+    {
+      "city": "Clover",
+      "county": "York"
+    },
+    {
+      "city": "Columbia",
+      "county": "Richland"
+    },
+    {
+      "city": "Conestee",
+      "county": "Greenville"
+    },
+    {
+      "city": "Converse",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Conway",
+      "county": "Horry"
+    },
+    {
+      "city": "Cooper",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Coosawhatchie",
+      "county": "Jasper"
+    },
+    {
+      "city": "Cope",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Cordesville",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Cordova",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Conronaca",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Cottageville",
+      "county": "Colleton"
+    },
+    {
+      "city": "Coward",
+      "county": "Florence"
+    },
+    {
+      "city": "Cowpens",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Crescent Beach",
+      "county": "Horry"
+    },
+    {
+      "city": "Crocketville",
+      "county": "Hampton"
+    },
+    {
+      "city": "Cross",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Cross Anchor",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Cross Hill",
+      "county": "Laurens"
+    },
+    {
+      "city": "Dacusville",
+      "county": "Pickens"
+    },
+    {
+      "city": "Dale",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Dalzell",
+      "county": "Sumter"
+    },
+    {
+      "city": "Darlington",
+      "county": "Darlington"
+    },
+    {
+      "city": "Daufuskie Island",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Davis Station",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Denmark",
+      "county": "Bamberg"
+    },
+    {
+      "city": "Dentsville",
+      "county": "Richland"
+    },
+    {
+      "city": "Dillon",
+      "county": "Dillon"
+    },
+    {
+      "city": "Donalds",
+      "county": "Abbeville"
+    },
+    {
+      "city": "Dorchester",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Dovesville",
+      "county": "Darlington"
+    },
+    {
+      "city": "Drake",
+      "county": "Marlboro"
+    },
+    {
+      "city": "Drayton",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Due West",
+      "county": "Abbeville"
+    },
+    {
+      "city": "Dunbar",
+      "county": "Marlboro"
+    },
+    {
+      "city": "Dunbarton",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Duncan",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Early Branch",
+      "county": "Hampton"
+    },
+    {
+      "city": "Easley",
+      "county": "Pickens"
+    },
+    {
+      "city": "Eastover",
+      "county": "Richland"
+    },
+    {
+      "city": "Edgefield",
+      "county": "Edgefield"
+    },
+    {
+      "city": "Edgemoor",
+      "county": "Chester"
+    },
+    {
+      "city": "Edisto Beach",
+      "county": "Charleston"
+    },
+    {
+      "city": "Edisto Island",
+      "county": "Charleston"
+    },
+    {
+      "city": "Effingham",
+      "county": "Florence"
+    },
+    {
+      "city": "Ehrhardt",
+      "county": "Bamberg"
+    },
+    {
+      "city": "Elgin",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Elko",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Ellenton",
+      "county": "Aiken"
+    },
+    {
+      "city": "Elliott",
+      "county": "Lee"
+    },
+    {
+      "city": "Elloree",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Enoree",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Estill",
+      "county": "Hampton"
+    },
+    {
+      "city": "Eutawville",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Fairfax",
+      "county": "Allendale"
+    },
+    {
+      "city": "Fairforest",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Fairmont",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Fair Play",
+      "county": "Oconee"
+    },
+    {
+      "city": "Filbert",
+      "county": "York"
+    },
+    {
+      "city": "Fingerville",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Florence",
+      "county": "Florence"
+    },
+    {
+      "city": "Floyd Dale",
+      "county": "Dillon"
+    },
+    {
+      "city": "Folly Beach",
+      "county": "Charleston"
+    },
+    {
+      "city": "Foreston",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Fork",
+      "county": "Dillon"
+    },
+    {
+      "city": "Fort Lawn",
+      "county": "Chester"
+    },
+    {
+      "city": "Fort Mill",
+      "county": "York"
+    },
+    {
+      "city": "Fort Motte",
+      "county": "Calhoun"
+    },
+    {
+      "city": "Fountain Inn",
+      "county": "Greenville"
+    },
+    {
+      "city": "Four Holes",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Frogmore",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Furman",
+      "county": "Hampton"
+    },
+    {
+      "city": "Gable",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Gadsden",
+      "county": "Richland"
+    },
+    {
+      "city": "Gaffney",
+      "county": "Cherokee"
+    },
+    {
+      "city": "Galivants Ferry",
+      "county": "Horry"
+    },
+    {
+      "city": "Garden City Beach",
+      "county": "Horry"
+    },
+    {
+      "city": "Garnett",
+      "county": "Hampton"
+    },
+    {
+      "city": "Gaston",
+      "county": "Lexington"
+    },
+    {
+      "city": "Georgetown",
+      "county": "Georgetown"
+    },
+    {
+      "city": "Gifford",
+      "county": "Hampton"
+    },
+    {
+      "city": "Gilbert",
+      "county": "Lexington"
+    },
+    {
+      "city": "Glendale",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Glenn Springs",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Gloverville",
+      "county": "Aiken"
+    },
+    {
+      "city": "Goose Creek",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Govan",
+      "county": "Bamberg"
+    },
+    {
+      "city": "Gramling",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Graniteville",
+      "county": "Aiken"
+    },
+    {
+      "city": "Gray Court",
+      "county": "Laurens"
+    },
+    {
+      "city": "Great Falls",
+      "county": "Chester"
+    },
+    {
+      "city": "Greeleyville",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Green Pond",
+      "county": "Colleton"
+    },
+    {
+      "city": "Green Sea",
+      "county": "Horry"
+    },
+    {
+      "city": "Greenville",
+      "county": "Greenville"
+    },
+    {
+      "city": "Greenwood",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Greer",
+      "county": "Greenville"
+    },
+    {
+      "city": "Gresham",
+      "county": "Marion"
+    },
+    {
+      "city": "Grover",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Gurley",
+      "county": "Horry"
+    },
+    {
+      "city": "Hagwood",
+      "county": "Sumter"
+    },
+    {
+      "city": "Hamer",
+      "county": "Dillon"
+    },
+    {
+      "city": "Hampton",
+      "county": "Hampton"
+    },
+    {
+      "city": "Hanahan",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Hardeeville",
+      "county": "Jasper"
+    },
+    {
+      "city": "Harleyville",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Hartsville",
+      "county": "Darlington"
+    },
+    {
+      "city": "Heath Springs",
+      "county": "Lancaster"
+    },
+    {
+      "city": "Helena",
+      "county": "Newberry"
+    },
+    {
+      "city": "Hemingway",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Hickory Grove",
+      "county": "York"
+    },
+    {
+      "city": "Hilda",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Hilton Head",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Hodges",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Holly Hill",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Hollywood",
+      "county": "Charleston"
+    },
+    {
+      "city": "Honea Path",
+      "county": "Anderson"
+    },
+    {
+      "city": "Honey Hill",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Hopkins",
+      "county": "Richland"
+    },
+    {
+      "city": "Horatio",
+      "county": "Sumter"
+    },
+    {
+      "city": "Huger",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Human",
+      "county": "Florence"
+    },
+    {
+      "city": "Inman",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Irmo",
+      "county": "Lexington"
+    },
+    {
+      "city": "Islandton",
+      "county": "Colleton"
+    },
+    {
+      "city": "Isle of Palms",
+      "county": "Charleston"
+    },
+    {
+      "city": "Iva",
+      "county": "Anderson"
+    },
+    {
+      "city": "Jackson",
+      "county": "Aiken"
+    },
+    {
+      "city": "Jacksonboro",
+      "county": "Colleton"
+    },
+    {
+      "city": "Jamestown",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Jedburg",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Jefferson",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Jenkinsville",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Jericho",
+      "county": "Charleston"
+    },
+    {
+      "city": "Joanna",
+      "county": "Laurens"
+    },
+    {
+      "city": "Johns Island",
+      "county": "Charleston"
+    },
+    {
+      "city": "Johnsonville",
+      "county": "Florence"
+    },
+    {
+      "city": "Johnston",
+      "county": "Edgefield"
+    },
+    {
+      "city": "Jonesville",
+      "county": "Union"
+    },
+    {
+      "city": "Kelton",
+      "county": "Union"
+    },
+    {
+      "city": "Kershaw",
+      "county": "Lancaster"
+    },
+    {
+      "city": "Kinards",
+      "county": "Newberry"
+    },
+    {
+      "city": "Kings Creek",
+      "county": "Cherokee"
+    },
+    {
+      "city": "Kingstree",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Kline",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Ladson",
+      "county": "Charleston"
+    },
+    {
+      "city": "La France",
+      "county": "Anderson"
+    },
+    {
+      "city": "Lake City",
+      "county": "Florence"
+    },
+    {
+      "city": "Lake View",
+      "county": "Dillon"
+    },
+    {
+      "city": "Lamar",
+      "county": "Darlington"
+    },
+    {
+      "city": "Lancaster",
+      "county": "Lancaster"
+    },
+    {
+      "city": "Lando",
+      "county": "Chester"
+    },
+    {
+      "city": "Landrum",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Lane",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Lanford",
+      "county": "Laurens"
+    },
+    {
+      "city": "Langley",
+      "county": "Aiken"
+    },
+    {
+      "city": "Latta",
+      "county": "Dillon"
+    },
+    {
+      "city": "Laurens",
+      "county": "Laurens"
+    },
+    {
+      "city": "Leeds",
+      "county": "Chester"
+    },
+    {
+      "city": "Leesville",
+      "county": "Lexington"
+    },
+    {
+      "city": "Lena",
+      "county": "Hampton"
+    },
+    {
+      "city": "Leo",
+      "county": "Florence"
+    },
+    {
+      "city": "Lesslie",
+      "county": "York"
+    },
+    {
+      "city": "Lexington",
+      "county": "Lexington"
+    },
+    {
+      "city": "Liberty",
+      "county": "Pickens"
+    },
+    {
+      "city": "Liberty Hill",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Little Mountain",
+      "county": "Newberry"
+    },
+    {
+      "city": "Little River",
+      "county": "Horry"
+    },
+    {
+      "city": "Little Rock",
+      "county": "Dillon"
+    },
+    {
+      "city": "Livington",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Loar",
+      "county": "Bamberg"
+    },
+    {
+      "city": "Lobeco",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Lockhart",
+      "county": "Union"
+    },
+    {
+      "city": "Lodge",
+      "county": "Colleton"
+    },
+    {
+      "city": "Lone Star",
+      "county": "Calhoun"
+    },
+    {
+      "city": "Longcreek",
+      "county": "Oconee"
+    },
+    {
+      "city": "Longs",
+      "county": "Horry"
+    },
+    {
+      "city": "Loris",
+      "county": "Horry"
+    },
+    {
+      "city": "Lowndesville",
+      "county": "Abbeville"
+    },
+    {
+      "city": "Lowrys",
+      "county": "Chester"
+    },
+    {
+      "city": "Lugoff",
+      "county": "Kershaw"
+    },
+    {
+      "city": "Luray",
+      "county": "Hampton"
+    },
+    {
+      "city": "Lydia",
+      "county": "Darlington"
+    },
+    {
+      "city": "Lykesland",
+      "county": "Richland"
+    },
+    {
+      "city": "Lyman",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Lynchburg",
+      "county": "Lee"
+    },
+    {
+      "city": "Macbeth",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Madison",
+      "county": "Oconee"
+    },
+    {
+      "city": "Manning",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Marietta",
+      "county": "Greenville"
+    },
+    {
+      "city": "Marion",
+      "county": "Marion"
+    },
+    {
+      "city": "Mars Bluff",
+      "county": "Florence"
+    },
+    {
+      "city": "Martin",
+      "county": "Allendale"
+    },
+    {
+      "city": "Mauldin",
+      "county": "Greenville"
+    },
+    {
+      "city": "Mayesville",
+      "county": "Sumter"
+    },
+    {
+      "city": "Mayo",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "McBee",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "McClellanville",
+      "county": "Charleston"
+    },
+    {
+      "city": "McColl",
+      "county": "Marlboro"
+    },
+    {
+      "city": "McConnells",
+      "county": "York"
+    },
+    {
+      "city": "McCormick",
+      "county": "McCormick"
+    },
+    {
+      "city": "Meggett",
+      "county": "Charleston"
+    },
+    {
+      "city": "Myers Mill",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Miley",
+      "county": "Hampton"
+    },
+    {
+      "city": "Millett",
+      "county": "Allendale"
+    },
+    {
+      "city": "Minturn",
+      "county": "Dillon"
+    },
+    {
+      "city": "Modoc",
+      "county": "McCormick"
+    },
+    {
+      "city": "Moncks Corner",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Monetta",
+      "county": "Saluda"
+    },
+    {
+      "city": "Mont Clare",
+      "county": "Darlington"
+    },
+    {
+      "city": "Monticello",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Montmorenci",
+      "county": "Aiken"
+    },
+    {
+      "city": "Moore",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Mountain Rest",
+      "county": "Oconee"
+    },
+    {
+      "city": "Mount Carmel",
+      "county": "McCormick"
+    },
+    {
+      "city": "Mount Croghan",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Mount Holly",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Mount Pleasant",
+      "county": "Charleston"
+    },
+    {
+      "city": "Mountville",
+      "county": "Laurens"
+    },
+    {
+      "city": "Mullins",
+      "county": "Marion"
+    },
+    {
+      "city": "Murrells Inlet",
+      "county": "Georgetown"
+    },
+    {
+      "city": "Myers",
+      "county": "Charleston"
+    },
+    {
+      "city": "Myrtle Beach",
+      "county": "Horry"
+    },
+    {
+      "city": "Neeses",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Nesmith",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Newberry",
+      "county": "Newberry"
+    },
+    {
+      "city": "Newry",
+      "county": "Oconee"
+    },
+    {
+      "city": "New Zion",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Nichols",
+      "county": "Marion"
+    },
+    {
+      "city": "Nimmons",
+      "county": "Pickens"
+    },
+    {
+      "city": "Ninety Six",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Nixonville",
+      "county": "Horry"
+    },
+    {
+      "city": "Norris",
+      "county": "Pickens"
+    },
+    {
+      "city": "North",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "North Augusta",
+      "county": "Aiken"
+    },
+    {
+      "city": "North Charleston",
+      "county": "Charleston"
+    },
+    {
+      "city": "North Myrtle Beach",
+      "county": "Horry"
+    },
+    {
+      "city": "Norway",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Oakley",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Oamplico",
+      "county": "Florence"
+    },
+    {
+      "city": "Ocean Beach Dr.",
+      "county": "Horry"
+    },
+    {
+      "city": "Olanta",
+      "county": "Florence"
+    },
+    {
+      "city": "Ora",
+      "county": "Laurens"
+    },
+    {
+      "city": "Orangeburg",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Osborn",
+      "county": "Charleston"
+    },
+    {
+      "city": "Oswego",
+      "county": "Sumter"
+    },
+    {
+      "city": "Owings",
+      "county": "Laurens"
+    },
+    {
+      "city": "Pacolet",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Pacolet Mills",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Pamplico",
+      "county": "Florence"
+    },
+    {
+      "city": "Pageland",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Parksville",
+      "county": "McCormick"
+    },
+    {
+      "city": "Parr",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Patrick",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Pauline",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Pawleys Island",
+      "county": "Georgetown"
+    },
+    {
+      "city": "Paxville",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Peak",
+      "county": "Newberry"
+    },
+    {
+      "city": "Peedee",
+      "county": "Marion"
+    },
+    {
+      "city": "Pelion",
+      "county": "Lexington"
+    },
+    {
+      "city": "Pelzer",
+      "county": "Anderson"
+    },
+    {
+      "city": "Pendleton",
+      "county": "Anderson"
+    },
+    {
+      "city": "Perry",
+      "county": "Aiken"
+    },
+    {
+      "city": "Pickens",
+      "county": "Pickens"
+    },
+    {
+      "city": "Piedmont",
+      "county": "Greenville"
+    },
+    {
+      "city": "Pineland",
+      "county": "Jasper"
+    },
+    {
+      "city": "Pineville",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Pinewood",
+      "county": "Sumter"
+    },
+    {
+      "city": "Pinopolis",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Plantersville",
+      "county": "Georgetown"
+    },
+    {
+      "city": "Plum Branch",
+      "county": "McCormick"
+    },
+    {
+      "city": "Pomaria",
+      "county": "Newberry"
+    },
+    {
+      "city": "Port Royal",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Poston",
+      "county": "Florence"
+    },
+    {
+      "city": "Princeton",
+      "county": "Laurens"
+    },
+    {
+      "city": "Pritchardville",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Prosperty",
+      "county": "Newberry"
+    },
+    {
+      "city": "Rains",
+      "county": "Marion"
+    },
+    {
+      "city": "Ravenel",
+      "county": "Charleston"
+    },
+    {
+      "city": "Reevesville",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Reidville",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Rembert",
+      "county": "Sumter"
+    },
+    {
+      "city": "Richburg",
+      "county": "Chester"
+    },
+    {
+      "city": "Richland",
+      "county": "Oconee"
+    },
+    {
+      "city": "Richtex",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Ridgeland",
+      "county": "Jasper"
+    },
+    {
+      "city": "Ridge Spring",
+      "county": "Saluda"
+    },
+    {
+      "city": "Ridgeville",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Ridgeway",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Rimini",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Rion",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Ritter",
+      "county": "Colleton"
+    },
+    {
+      "city": "Rock Hill",
+      "county": "York"
+    },
+    {
+      "city": "Rodman",
+      "county": "Chester"
+    },
+    {
+      "city": "Roebuck",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Round O",
+      "county": "Colleton"
+    },
+    {
+      "city": "Rowesville",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Ruby",
+      "county": "Chesterfield"
+    },
+    {
+      "city": "Ruffin",
+      "county": "Colleton"
+    },
+    {
+      "city": "Russellville",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Saint Charles",
+      "county": "Lee"
+    },
+    {
+      "city": "Saint George",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Saint Matthews",
+      "county": "Calhoun"
+    },
+    {
+      "city": "Saint Stephen",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Salem",
+      "county": "Oconee"
+    },
+    {
+      "city": "Salley",
+      "county": "Aiken"
+    },
+    {
+      "city": "Salters",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Saluda",
+      "county": "Saluda"
+    },
+    {
+      "city": "Samaria",
+      "county": "Lexington"
+    },
+    {
+      "city": "Sandy Springs",
+      "county": "Anderson"
+    },
+    {
+      "city": "Santee",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Santuck",
+      "county": "Union"
+    },
+    {
+      "city": "Sardinia",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Scotia",
+      "county": "Hampton"
+    },
+    {
+      "city": "Scranton",
+      "county": "Florence"
+    },
+    {
+      "city": "Seabrook",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Sedelia",
+      "county": "Union"
+    },
+    {
+      "city": "Sellers",
+      "county": "Marion"
+    },
+    {
+      "city": "Seneca",
+      "county": "Oconee"
+    },
+    {
+      "city": "Sharon",
+      "county": "Pickens"
+    },
+    {
+      "city": "Sheldon",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Shelton",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Shoals Junction",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Shulerville",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Silverstreet",
+      "county": "Newberry"
+    },
+    {
+      "city": "Simpsonville",
+      "county": "Greenville"
+    },
+    {
+      "city": "Six Mile",
+      "county": "Pickens"
+    },
+    {
+      "city": "Slater",
+      "county": "Greenville"
+    },
+    {
+      "city": "Smith",
+      "county": "York"
+    },
+    {
+      "city": "Smoaks",
+      "county": "Colleton"
+    },
+    {
+      "city": "Smyrna",
+      "county": "York"
+    },
+    {
+      "city": "Society Hill",
+      "county": "Darlington"
+    },
+    {
+      "city": "Spartanburg",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Springfield",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Starr",
+      "county": "Anderson"
+    },
+    {
+      "city": "Startex",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "State Park",
+      "county": "Richland"
+    },
+    {
+      "city": "Strother",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Sullivans Island",
+      "county": "Charleston"
+    },
+    {
+      "city": "Summerton",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Summerville",
+      "county": "Dorchester"
+    },
+    {
+      "city": "Summit",
+      "county": "Lexington"
+    },
+    {
+      "city": "Sumter",
+      "county": "Sumter"
+    },
+    {
+      "city": "Sunset",
+      "county": "Pickens"
+    },
+    {
+      "city": "Swansea",
+      "county": "Lexington"
+    },
+    {
+      "city": "Switzer",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Switzerland",
+      "county": "Jasper"
+    },
+    {
+      "city": "Sycamore",
+      "county": "Allendale"
+    },
+    {
+      "city": "Tamassee",
+      "county": "Oconee"
+    },
+    {
+      "city": "Tatum",
+      "county": "Marlboro"
+    },
+    {
+      "city": "Taylors",
+      "county": "Greenville"
+    },
+    {
+      "city": "Tigersville",
+      "county": "Greenville"
+    },
+    {
+      "city": "Tillman",
+      "county": "Jasper"
+    },
+    {
+      "city": "Timmonsville",
+      "county": "Florence"
+    },
+    {
+      "city": "Toddville",
+      "county": "Horry"
+    },
+    {
+      "city": "Townville",
+      "county": "Anderson"
+    },
+    {
+      "city": "Travelers Rest",
+      "county": "Greenville"
+    },
+    {
+      "city": "Trenton",
+      "county": "Edgefield"
+    },
+    {
+      "city": "Trio",
+      "county": "Williamsburg"
+    },
+    {
+      "city": "Troy",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Turbeville",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Ulmers",
+      "county": "Allendale"
+    },
+    {
+      "city": "Una",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Union",
+      "county": "Union"
+    },
+    {
+      "city": "Vance",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Van Wyck",
+      "county": "Lancaster"
+    },
+    {
+      "city": "Varnville",
+      "county": "Hampton"
+    },
+    {
+      "city": "Vaucluse",
+      "county": "Aiken"
+    },
+    {
+      "city": "Verdery",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Wadmalaw Island",
+      "county": "Charleston"
+    },
+    {
+      "city": "Wagener",
+      "county": "Aiken"
+    },
+    {
+      "city": "Walhalla",
+      "county": "Oconee"
+    },
+    {
+      "city": "Wallace",
+      "county": "Marlboro"
+    },
+    {
+      "city": "Walterboro",
+      "county": "Colleton"
+    },
+    {
+      "city": "Wampee",
+      "county": "Horry"
+    },
+    {
+      "city": "Wando",
+      "county": "Berkeley"
+    },
+    {
+      "city": "Ward",
+      "county": "Saluda"
+    },
+    {
+      "city": "Ware Shoals",
+      "county": "Greenwood"
+    },
+    {
+      "city": "Warrensville",
+      "county": "Aiken"
+    },
+    {
+      "city": "Wateree",
+      "county": "Richland"
+    },
+    {
+      "city": "Waterloo",
+      "county": "Laurens"
+    },
+    {
+      "city": "Wedgefield",
+      "county": "Sumter"
+    },
+    {
+      "city": "Wellford",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "West Columbia",
+      "county": "Lexington"
+    },
+    {
+      "city": "Westminster",
+      "county": "Oconee"
+    },
+    {
+      "city": "West Union",
+      "county": "Oconee"
+    },
+    {
+      "city": "Westville",
+      "county": "Kershaw"
+    },
+    {
+      "city": "White Hall",
+      "county": "Colleton"
+    },
+    {
+      "city": "White Oak",
+      "county": "Fairfield"
+    },
+    {
+      "city": "White Pone",
+      "county": "Aiken"
+    },
+    {
+      "city": "White Rock",
+      "county": "Richland"
+    },
+    {
+      "city": "White Stone",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Whitmire",
+      "county": "Newberry"
+    },
+    {
+      "city": "Whitney",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Wilkins",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Williams",
+      "county": "Colleton"
+    },
+    {
+      "city": "Williamston",
+      "county": "Anderson"
+    },
+    {
+      "city": "Willington",
+      "county": "McCormick"
+    },
+    {
+      "city": "Williston",
+      "county": "Barnwell"
+    },
+    {
+      "city": "Wilson",
+      "county": "Clarendon"
+    },
+    {
+      "city": "Windsor",
+      "county": "Aiken"
+    },
+    {
+      "city": "Windy Hill Beach",
+      "county": "Horry"
+    },
+    {
+      "city": "Winnsboro",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Wisacky",
+      "county": "Lee"
+    },
+    {
+      "city": "Wolfton",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Woodford",
+      "county": "Orangeburg"
+    },
+    {
+      "city": "Woodruff",
+      "county": "Spartanburg"
+    },
+    {
+      "city": "Woodward",
+      "county": "Fairfield"
+    },
+    {
+      "city": "Yemassee",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Yonges Island",
+      "county": "Charleston"
+    },
+    {
+      "city": "York",
+      "county": "York"
+    }
+  ],
+  "NC": [
+    {
+      "city": "City/Town",
+      "county": "County"
+    },
+    {
+      "city": "Aberdeen",
+      "county": "Moore"
+    },
+    {
+      "city": "Ahoskie",
+      "county": "Hertford"
+    },
+    {
+      "city": "Alamance",
+      "county": "Alamance"
+    },
+    {
+      "city": "Albemarle",
+      "county": "Stanly"
+    },
+    {
+      "city": "Albertson",
+      "county": "Duplin"
+    },
+    {
+      "city": "Alliance",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Andrews",
+      "county": "Cherokee"
+    },
+    {
+      "city": "Angier",
+      "county": "Harnett/Wake"
+    },
+    {
+      "city": "Ansonville",
+      "county": "Anson"
+    },
+    {
+      "city": "Apex",
+      "county": "Wake"
+    },
+    {
+      "city": "Arapahoe",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Archdale",
+      "county": "Randolph/Guilford"
+    },
+    {
+      "city": "Archer Lodge",
+      "county": "Johnston"
+    },
+    {
+      "city": "Asheboro",
+      "county": "Randolph"
+    },
+    {
+      "city": "Asheville",
+      "county": "Buncombe"
+    },
+    {
+      "city": "Askewville",
+      "county": "Bertie"
+    },
+    {
+      "city": "Atkinson",
+      "county": "Pender"
+    },
+    {
+      "city": "Atlantic Beach",
+      "county": "Carteret"
+    },
+    {
+      "city": "Aulander",
+      "county": "Bertie"
+    },
+    {
+      "city": "Aurora",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Autryville",
+      "county": "Sampson"
+    },
+    {
+      "city": "Ayden",
+      "county": "Pitt"
+    },
+    {
+      "city": "Badin",
+      "county": "Stanly"
+    },
+    {
+      "city": "Bailey",
+      "county": "Nash"
+    },
+    {
+      "city": "Bakersville",
+      "county": "Mitchell"
+    },
+    {
+      "city": "Bald Head Island",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Banner Elk",
+      "county": "Avery"
+    },
+    {
+      "city": "Bath",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Bayboro",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Bear Grass",
+      "county": "Martin"
+    },
+    {
+      "city": "Beaufort",
+      "county": "Carteret"
+    },
+    {
+      "city": "Beech Mountain",
+      "county": "Watauga/Avery"
+    },
+    {
+      "city": "Belhaven",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Belmont",
+      "county": "Gaston"
+    },
+    {
+      "city": "Belville",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Belwood",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Benson",
+      "county": "Johnston"
+    },
+    {
+      "city": "Bermuda Run",
+      "county": "Davie"
+    },
+    {
+      "city": "Bessemer City",
+      "county": "Gaston"
+    },
+    {
+      "city": "Bethania",
+      "county": "Forsyth"
+    },
+    {
+      "city": "Bethel",
+      "county": "Pitt"
+    },
+    {
+      "city": "Beulaville",
+      "county": "Duplin"
+    },
+    {
+      "city": "Biltmore Forest",
+      "county": "Buncombe"
+    },
+    {
+      "city": "Biscoe",
+      "county": "Montgomery"
+    },
+    {
+      "city": "Black Creek",
+      "county": "Wilson"
+    },
+    {
+      "city": "Black Mountain",
+      "county": "Buncombe"
+    },
+    {
+      "city": "Bladenboro",
+      "county": "Bladen"
+    },
+    {
+      "city": "Blowing Rock",
+      "county": "Watauga/Caldwell"
+    },
+    {
+      "city": "Boardman",
+      "county": "Columbus"
+    },
+    {
+      "city": "Bogue",
+      "county": "Carteret"
+    },
+    {
+      "city": "Boiling Spring Lakes",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Boiling Springs",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Bolivia",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Bolton",
+      "county": "Columbus"
+    },
+    {
+      "city": "Boone",
+      "county": "Watauga"
+    },
+    {
+      "city": "Boonville",
+      "county": "Yadkin"
+    },
+    {
+      "city": "Bostic",
+      "county": "Rutherford"
+    },
+    {
+      "city": "Brevard",
+      "county": "Transylvania"
+    },
+    {
+      "city": "Bridgeton",
+      "county": "Craven"
+    },
+    {
+      "city": "Broadway",
+      "county": "Harnett/Lee"
+    },
+    {
+      "city": "Brookford",
+      "county": "Catawba"
+    },
+    {
+      "city": "Brunswick",
+      "county": "Columbus"
+    },
+    {
+      "city": "Bryson City",
+      "county": "Swain"
+    },
+    {
+      "city": "Bunn",
+      "county": "Franklin"
+    },
+    {
+      "city": "Burgaw",
+      "county": "Pender"
+    },
+    {
+      "city": "Burlington",
+      "county": "Alamance/Guilford"
+    },
+    {
+      "city": "Burnsville",
+      "county": "Yancey"
+    },
+    {
+      "city": "Butner",
+      "county": "Granville"
+    },
+    {
+      "city": "Cajah's Mountain",
+      "county": "Caldwell"
+    },
+    {
+      "city": "Calabash",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Calypso",
+      "county": "Duplin"
+    },
+    {
+      "city": "Cameron",
+      "county": "Moore"
+    },
+    {
+      "city": "Candor",
+      "county": "Montgomery"
+    },
+    {
+      "city": "Canton",
+      "county": "Haywood"
+    },
+    {
+      "city": "Cape Carteret",
+      "county": "Carteret"
+    },
+    {
+      "city": "Carolina Beach",
+      "county": "New Hanover"
+    },
+    {
+      "city": "Carolina Shores",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Carrboro",
+      "county": "Orange"
+    },
+    {
+      "city": "Carthage",
+      "county": "Moore"
+    },
+    {
+      "city": "Cary",
+      "county": "Wake/Chatham"
+    },
+    {
+      "city": "Casar",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Cashiers",
+      "county": "Jackson"
+    },
+    {
+      "city": "Castalia",
+      "county": "Nash"
+    },
+    {
+      "city": "Caswell Beach",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Catawba",
+      "county": "Catawba"
+    },
+    {
+      "city": "Cedar Point",
+      "county": "Carteret"
+    },
+    {
+      "city": "Cedar Rock",
+      "county": "Caldwell"
+    },
+    {
+      "city": "Centerville",
+      "county": "Franklin"
+    },
+    {
+      "city": "Cerro Gordo",
+      "county": "Columbus"
+    },
+    {
+      "city": "Chadbourn",
+      "county": "Columbus"
+    },
+    {
+      "city": "Chapel Hill",
+      "county": "Orange/Durham"
+    },
+    {
+      "city": "Charlotte",
+      "county": "Mecklenburg"
+    },
+    {
+      "city": "Cherryville",
+      "county": "Gaston"
+    },
+    {
+      "city": "Chimney Rock\n\nVillage",
+      "county": "Rutherford"
+    },
+    {
+      "city": "China Grove",
+      "county": "Rowan"
+    },
+    {
+      "city": "Chocowinity",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Claremont",
+      "county": "Catawba"
+    },
+    {
+      "city": "Clarkton",
+      "county": "Bladen"
+    },
+    {
+      "city": "Clayton",
+      "county": "Johnston"
+    },
+    {
+      "city": "Clemmons",
+      "county": "Forsyth"
+    },
+    {
+      "city": "Cleveland",
+      "county": "Rowan"
+    },
+    {
+      "city": "Clinton",
+      "county": "Sampson"
+    },
+    {
+      "city": "Clyde",
+      "county": "Haywood"
+    },
+    {
+      "city": "Coats",
+      "county": "Harnett"
+    },
+    {
+      "city": "Cofield",
+      "county": "Hertford"
+    },
+    {
+      "city": "Colerain",
+      "county": "Bertie"
+    },
+    {
+      "city": "Columbia",
+      "county": "Tyrrell"
+    },
+    {
+      "city": "Columbus",
+      "county": "Polk"
+    },
+    {
+      "city": "Como",
+      "county": "Hertford"
+    },
+    {
+      "city": "Concord",
+      "county": "Cabarrus"
+    },
+    {
+      "city": "Conetoe",
+      "county": "Edgecombe"
+    },
+    {
+      "city": "Connelly Springs",
+      "county": "Burke"
+    },
+    {
+      "city": "Conover",
+      "county": "Catawba"
+    },
+    {
+      "city": "Conway",
+      "county": "Northampton"
+    },
+    {
+      "city": "Cooleemee",
+      "county": "Davie"
+    },
+    {
+      "city": "Cornelius",
+      "county": "Mecklenburg"
+    },
+    {
+      "city": "Cove City",
+      "county": "Craven"
+    },
+    {
+      "city": "Cramerton",
+      "county": "Gaston"
+    },
+    {
+      "city": "Creedmoor",
+      "county": "Granville"
+    },
+    {
+      "city": "Creswell",
+      "county": "Washington"
+    },
+    {
+      "city": "Crossnore",
+      "county": "Avery"
+    },
+    {
+      "city": "Cullowhee",
+      "county": "Jackson"
+    },
+    {
+      "city": "Dallas",
+      "county": "Gaston"
+    },
+    {
+      "city": "Danbury",
+      "county": "Stokes"
+    },
+    {
+      "city": "Davidson",
+      "county": "Iredell/Mecklenburg"
+    },
+    {
+      "city": "Denton",
+      "county": "Davidson"
+    },
+    {
+      "city": "Dillsboro",
+      "county": "Jackson"
+    },
+    {
+      "city": "Dobbins Heights",
+      "county": "Richmond"
+    },
+    {
+      "city": "Dobson",
+      "county": "Surry"
+    },
+    {
+      "city": "Dortches",
+      "county": "Nash"
+    },
+    {
+      "city": "Dover",
+      "county": "Craven"
+    },
+    {
+      "city": "Drexel",
+      "county": "Burke"
+    },
+    {
+      "city": "Dublin",
+      "county": "Bladen"
+    },
+    {
+      "city": "Duck",
+      "county": "Dare"
+    },
+    {
+      "city": "Dunn",
+      "county": "Harnett"
+    },
+    {
+      "city": "Durham",
+      "county": "Durham County"
+    },
+    {
+      "city": "Earl",
+      "county": "Cleveland"
+    },
+    {
+      "city": "East Arcadia",
+      "county": "Bladen"
+    },
+    {
+      "city": "East Bend",
+      "county": "Yadkin"
+    },
+    {
+      "city": "East Laurinburg",
+      "county": "Scotland"
+    },
+    {
+      "city": "East Spencer",
+      "county": "Rowan"
+    },
+    {
+      "city": "Eastover",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Eden",
+      "county": "Rockingham"
+    },
+    {
+      "city": "Edenton",
+      "county": "Chowan"
+    },
+    {
+      "city": "Elizabeth City",
+      "county": "Pasquotank/Camden"
+    },
+    {
+      "city": "Elizabethtown",
+      "county": "Bladen"
+    },
+    {
+      "city": "Elk Park",
+      "county": "Avery"
+    },
+    {
+      "city": "Elkin",
+      "county": "Surry/Wilkes"
+    },
+    {
+      "city": "Ellenboro",
+      "county": "Rutherford"
+    },
+    {
+      "city": "Ellerbe",
+      "county": "Richmond"
+    },
+    {
+      "city": "Elm City",
+      "county": "Wilson"
+    },
+    {
+      "city": "Elon",
+      "county": "Alamance"
+    },
+    {
+      "city": "Emerald Isle",
+      "county": "Carteret"
+    },
+    {
+      "city": "Enfield",
+      "county": "Halifax"
+    },
+    {
+      "city": "Erwin",
+      "county": "Harnett"
+    },
+    {
+      "city": "Eureka",
+      "county": "Wayne"
+    },
+    {
+      "city": "Everetts",
+      "county": "Martin"
+    },
+    {
+      "city": "Fair Bluff",
+      "county": "Columbus"
+    },
+    {
+      "city": "Fairmont",
+      "county": "Robeson"
+    },
+    {
+      "city": "Fairview",
+      "county": "Union"
+    },
+    {
+      "city": "Faison",
+      "county": "Duplin"
+    },
+    {
+      "city": "Faith",
+      "county": "Rowan"
+    },
+    {
+      "city": "Falcon",
+      "county": "Cumberland/Sampson"
+    },
+    {
+      "city": "Falkland",
+      "county": "Pitt"
+    },
+    {
+      "city": "Fallston",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Farmville",
+      "county": "Pitt"
+    },
+    {
+      "city": "Fayetteville",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Flat Rock",
+      "county": "Henderson"
+    },
+    {
+      "city": "Fletcher",
+      "county": "Henderson"
+    },
+    {
+      "city": "Forest City",
+      "county": "Rutherford"
+    },
+    {
+      "city": "Forest Hills",
+      "county": "Jackson"
+    },
+    {
+      "city": "Fountain",
+      "county": "Pitt"
+    },
+    {
+      "city": "Four Oaks",
+      "county": "Johnston"
+    },
+    {
+      "city": "Foxfire Village",
+      "county": "Moore"
+    },
+    {
+      "city": "Franklin",
+      "county": "Macon"
+    },
+    {
+      "city": "Franklinton",
+      "county": "Franklin"
+    },
+    {
+      "city": "Franklinville",
+      "county": "Randolph"
+    },
+    {
+      "city": "Fremont",
+      "county": "Wayne"
+    },
+    {
+      "city": "Fuquay-Varina",
+      "county": "Wake"
+    },
+    {
+      "city": "Gamewell",
+      "county": "Caldwell"
+    },
+    {
+      "city": "Garland",
+      "county": "Sampson"
+    },
+    {
+      "city": "Garner",
+      "county": "Wake"
+    },
+    {
+      "city": "Garysburg",
+      "county": "Northampton"
+    },
+    {
+      "city": "Gaston",
+      "county": "Northampton"
+    },
+    {
+      "city": "Gastonia",
+      "county": "Gaston"
+    },
+    {
+      "city": "Gatesville",
+      "county": "Gates"
+    },
+    {
+      "city": "Gibson",
+      "county": "Scotland"
+    },
+    {
+      "city": "Gibsonville",
+      "county": "Guilford/Alamance"
+    },
+    {
+      "city": "Glen Alpine",
+      "county": "Burke"
+    },
+    {
+      "city": "Glenville",
+      "county": "Jackson"
+    },
+    {
+      "city": "Godwin",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Goldsboro",
+      "county": "Wayne"
+    },
+    {
+      "city": "Goldston",
+      "county": "Chatham"
+    },
+    {
+      "city": "Graham",
+      "county": "Alamance"
+    },
+    {
+      "city": "Grandfather Village",
+      "county": "Avery"
+    },
+    {
+      "city": "Granite Falls",
+      "county": "Caldwell"
+    },
+    {
+      "city": "Granite Quarry",
+      "county": "Rowan"
+    },
+    {
+      "city": "Grantsboro",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Green Level",
+      "county": "Alamance"
+    },
+    {
+      "city": "Greenevers",
+      "county": "Duplin"
+    },
+    {
+      "city": "Greensboro",
+      "county": "Guilford"
+    },
+    {
+      "city": "Greenville",
+      "county": "Pitt"
+    },
+    {
+      "city": "Grifton",
+      "county": "Pitt/Lenoir"
+    },
+    {
+      "city": "Grimesland",
+      "county": "Pitt"
+    },
+    {
+      "city": "Grover",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Halifax",
+      "county": "Halifax"
+    },
+    {
+      "city": "Hamilton",
+      "county": "Martin"
+    },
+    {
+      "city": "Hamlet",
+      "county": "Richmond"
+    },
+    {
+      "city": "Harmony",
+      "county": "Iredell"
+    },
+    {
+      "city": "Harrells",
+      "county": "Sampson/Duplin"
+    },
+    {
+      "city": "Harrellsville",
+      "county": "Hertford"
+    },
+    {
+      "city": "Harrisburg",
+      "county": "Cabarrus"
+    },
+    {
+      "city": "Hassell",
+      "county": "Martin"
+    },
+    {
+      "city": "Havelock",
+      "county": "Craven"
+    },
+    {
+      "city": "Haw River",
+      "county": "Alamance"
+    },
+    {
+      "city": "Hayesville",
+      "county": "Clay"
+    },
+    {
+      "city": "Hemby Bridge",
+      "county": "Union"
+    },
+    {
+      "city": "Henderson",
+      "county": "Vance"
+    },
+    {
+      "city": "Hendersonville",
+      "county": "Henderson"
+    },
+    {
+      "city": "Hertford",
+      "county": "Perquimans"
+    },
+    {
+      "city": "Hickory",
+      "county": "Catawba/Burke/Caldwell"
+    },
+    {
+      "city": "High Point",
+      "county": "Guilford/Davidson/Randolph/Forsyth"
+    },
+    {
+      "city": "High Shoals",
+      "county": "Gaston/Lincoln"
+    },
+    {
+      "city": "Highlands",
+      "county": "Macon/Jackson"
+    },
+    {
+      "city": "Hildebran",
+      "county": "Burke"
+    },
+    {
+      "city": "Hillsborough",
+      "county": "Orange"
+    },
+    {
+      "city": "Hobgood",
+      "county": "Halifax"
+    },
+    {
+      "city": "Hoffman",
+      "county": "Richmond"
+    },
+    {
+      "city": "Holden Beach",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Holly Ridge",
+      "county": "Onslow"
+    },
+    {
+      "city": "Holly Springs",
+      "county": "Wake"
+    },
+    {
+      "city": "Hookerton",
+      "county": "Greene"
+    },
+    {
+      "city": "Hope Mills",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Hot Springs",
+      "county": "Madison"
+    },
+    {
+      "city": "Hudson",
+      "county": "Caldwell"
+    },
+    {
+      "city": "Huntersville",
+      "county": "Mecklenburg"
+    },
+    {
+      "city": "Indian Beach",
+      "county": "Carteret"
+    },
+    {
+      "city": "Indian Trail",
+      "county": "Union"
+    },
+    {
+      "city": "Jackson",
+      "county": "Northampton"
+    },
+    {
+      "city": "Jacksonville",
+      "county": "Onslow"
+    },
+    {
+      "city": "Jamestown",
+      "county": "Guilford"
+    },
+    {
+      "city": "Jamesville",
+      "county": "Martin"
+    },
+    {
+      "city": "Jefferson",
+      "county": "Ashe"
+    },
+    {
+      "city": "Jonesville",
+      "county": "Yadkin"
+    },
+    {
+      "city": "Kannapolis",
+      "county": "Rowan/Cabarrus"
+    },
+    {
+      "city": "Kelford",
+      "county": "Bertie"
+    },
+    {
+      "city": "Kenansville",
+      "county": "Duplin"
+    },
+    {
+      "city": "Kenly",
+      "county": "Johnston/Wilson"
+    },
+    {
+      "city": "Kernersville",
+      "county": "Forsyth/Guilford"
+    },
+    {
+      "city": "Kill Devil Hills",
+      "county": "Dare"
+    },
+    {
+      "city": "King",
+      "county": "Stokes/Forsyth"
+    },
+    {
+      "city": "Kings Mountain",
+      "county": "Cleveland/Gaston"
+    },
+    {
+      "city": "Kingstown",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Kinston",
+      "county": "Lenoir"
+    },
+    {
+      "city": "Kittrell",
+      "county": "Vance"
+    },
+    {
+      "city": "Kitty Hawk",
+      "county": "Dare"
+    },
+    {
+      "city": "Knightdale",
+      "county": "Wake"
+    },
+    {
+      "city": "Kure Beach",
+      "county": "New Hanover"
+    },
+    {
+      "city": "La Grange",
+      "county": "Lenoir"
+    },
+    {
+      "city": "Lake Lure",
+      "county": "Rutherford"
+    },
+    {
+      "city": "Lake Park",
+      "county": "Union"
+    },
+    {
+      "city": "Lake Santeetlah",
+      "county": "Graham"
+    },
+    {
+      "city": "Lake Waccamaw",
+      "county": "Columbus"
+    },
+    {
+      "city": "Landis",
+      "county": "Rowan"
+    },
+    {
+      "city": "Lansing",
+      "county": "Ashe"
+    },
+    {
+      "city": "Lasker",
+      "county": "Northampton"
+    },
+    {
+      "city": "Lattimore",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Laurel Park",
+      "county": "Henderson"
+    },
+    {
+      "city": "Laurinburg",
+      "county": "Scotland"
+    },
+    {
+      "city": "Lawndale",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Leggett",
+      "county": "Edgecombe"
+    },
+    {
+      "city": "Leland",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Lenoir",
+      "county": "Caldwell"
+    },
+    {
+      "city": "Lewiston Woodville",
+      "county": "Bertie"
+    },
+    {
+      "city": "Lewisville",
+      "county": "Forsyth"
+    },
+    {
+      "city": "Lexington",
+      "county": "Davidson"
+    },
+    {
+      "city": "Liberty",
+      "county": "Randolph"
+    },
+    {
+      "city": "Lilesville",
+      "county": "Anson"
+    },
+    {
+      "city": "Lillington",
+      "county": "Harnett"
+    },
+    {
+      "city": "Lincolnton",
+      "county": "Lincoln"
+    },
+    {
+      "city": "Linden",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Littleton",
+      "county": "Halifax"
+    },
+    {
+      "city": "Locust",
+      "county": "Stanly/Cabarrus"
+    },
+    {
+      "city": "Long View",
+      "county": "Catawba/Burke"
+    },
+    {
+      "city": "Louisburg",
+      "county": "Franklin"
+    },
+    {
+      "city": "Love Valley",
+      "county": "Iredell"
+    },
+    {
+      "city": "Lowell",
+      "county": "Gaston"
+    },
+    {
+      "city": "Lucama",
+      "county": "Wilson"
+    },
+    {
+      "city": "Lumber Bridge",
+      "county": "Robeson"
+    },
+    {
+      "city": "Lumberton",
+      "county": "Robeson"
+    },
+    {
+      "city": "Macclesfield",
+      "county": "Edgecombe"
+    },
+    {
+      "city": "Macon",
+      "county": "Warren"
+    },
+    {
+      "city": "Madison",
+      "county": "Rockingham"
+    },
+    {
+      "city": "Maggie Valley",
+      "county": "Haywood"
+    },
+    {
+      "city": "Magnolia",
+      "county": "Duplin"
+    },
+    {
+      "city": "Maiden",
+      "county": "Lincoln/Catawba"
+    },
+    {
+      "city": "Manteo",
+      "county": "Dare"
+    },
+    {
+      "city": "Marietta",
+      "county": "Robeson"
+    },
+    {
+      "city": "Marion",
+      "county": "McDowell"
+    },
+    {
+      "city": "Mars Hill",
+      "county": "Madison"
+    },
+    {
+      "city": "Marshall",
+      "county": "Madison"
+    },
+    {
+      "city": "Marshville",
+      "county": "Union"
+    },
+    {
+      "city": "Marvin",
+      "county": "Union"
+    },
+    {
+      "city": "Matthews",
+      "county": "Mecklenburg"
+    },
+    {
+      "city": "Maxton",
+      "county": "Robeson/Scotland"
+    },
+    {
+      "city": "Mayodan",
+      "county": "Rockingham"
+    },
+    {
+      "city": "Maysville",
+      "county": "Jones"
+    },
+    {
+      "city": "McAdenville",
+      "county": "Gaston"
+    },
+    {
+      "city": "McDonald",
+      "county": "Robeson"
+    },
+    {
+      "city": "McFarlan",
+      "county": "Anson"
+    },
+    {
+      "city": "Mebane",
+      "county": "Alamance/Orange"
+    },
+    {
+      "city": "Mesic",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Micro",
+      "county": "Johnston"
+    },
+    {
+      "city": "Middleburg",
+      "county": "Vance"
+    },
+    {
+      "city": "Middlesex",
+      "county": "Nash"
+    },
+    {
+      "city": "Midland",
+      "county": "Cabarrus"
+    },
+    {
+      "city": "Midway",
+      "county": "Davidson"
+    },
+    {
+      "city": "Mills River",
+      "county": "Henderson"
+    },
+    {
+      "city": "Milton",
+      "county": "Caswell"
+    },
+    {
+      "city": "Mineral Springs",
+      "county": "Union"
+    },
+    {
+      "city": "Minnesott Beach",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Mint Hill",
+      "county": "Mecklenburg/Union"
+    },
+    {
+      "city": "Misenheimer",
+      "county": "Stanly"
+    },
+    {
+      "city": "Mocksville",
+      "county": "Davie"
+    },
+    {
+      "city": "Momeyer",
+      "county": "Nash"
+    },
+    {
+      "city": "Monroe",
+      "county": "Union"
+    },
+    {
+      "city": "Montreat",
+      "county": "Buncombe"
+    },
+    {
+      "city": "Mooresboro",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Mooresville",
+      "county": "Iredell"
+    },
+    {
+      "city": "Morehead City",
+      "county": "Carteret"
+    },
+    {
+      "city": "Morganton",
+      "county": "Burke"
+    },
+    {
+      "city": "Morrisville",
+      "county": "Wake/Durham"
+    },
+    {
+      "city": "Morven",
+      "county": "Anson"
+    },
+    {
+      "city": "Mount Airy",
+      "county": "Surry"
+    },
+    {
+      "city": "Mount Gilead",
+      "county": "Montgomery"
+    },
+    {
+      "city": "Mount Holly",
+      "county": "Gaston"
+    },
+    {
+      "city": "Mount Olive",
+      "county": "Wayne/Duplin"
+    },
+    {
+      "city": "Mount Pleasant",
+      "county": "Cabarrus"
+    },
+    {
+      "city": "Murfreesboro",
+      "county": "Hertford"
+    },
+    {
+      "city": "Murphy",
+      "county": "Cherokee"
+    },
+    {
+      "city": "Nags Head",
+      "county": "Dare"
+    },
+    {
+      "city": "Nashville",
+      "county": "Nash"
+    },
+    {
+      "city": "Navassa",
+      "county": "Brunswick"
+    },
+    {
+      "city": "New Bern",
+      "county": "Craven"
+    },
+    {
+      "city": "New London",
+      "county": "Stanly"
+    },
+    {
+      "city": "Newland",
+      "county": "Avery"
+    },
+    {
+      "city": "Newport",
+      "county": "Carteret"
+    },
+    {
+      "city": "Newton",
+      "county": "Catawba"
+    },
+    {
+      "city": "Newton Grove",
+      "county": "Sampson"
+    },
+    {
+      "city": "Norlina",
+      "county": "Warren"
+    },
+    {
+      "city": "Norman",
+      "county": "Richmond"
+    },
+    {
+      "city": "North Topsail Beach",
+      "county": "Onslow"
+    },
+    {
+      "city": "North Wilkesboro",
+      "county": "Wilkes"
+    },
+    {
+      "city": "Northwest",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Norwood",
+      "county": "Stanly"
+    },
+    {
+      "city": "Oak City",
+      "county": "Martin"
+    },
+    {
+      "city": "Oak Island",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Oak Ridge",
+      "county": "Guilford"
+    },
+    {
+      "city": "Oakboro",
+      "county": "Stanly"
+    },
+    {
+      "city": "Ocean Isle Beach",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Old Fort",
+      "county": "McDowell"
+    },
+    {
+      "city": "Oriental",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Orrum",
+      "county": "Robeson"
+    },
+    {
+      "city": "Ossipee",
+      "county": "Alamance"
+    },
+    {
+      "city": "Oxford",
+      "county": "Granville"
+    },
+    {
+      "city": "Pantego",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Parkton",
+      "county": "Robeson"
+    },
+    {
+      "city": "Parmele",
+      "county": "Martin"
+    },
+    {
+      "city": "Patterson Springs",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Peachland",
+      "county": "Anson"
+    },
+    {
+      "city": "Peletier",
+      "county": "Carteret"
+    },
+    {
+      "city": "Pembroke",
+      "county": "Robeson"
+    },
+    {
+      "city": "Pikeville",
+      "county": "Wayne"
+    },
+    {
+      "city": "Pilot Mountain",
+      "county": "Surry"
+    },
+    {
+      "city": "Pine Knoll Shores",
+      "county": "Carteret"
+    },
+    {
+      "city": "Pine Level",
+      "county": "Johnston"
+    },
+    {
+      "city": "Pinebluff",
+      "county": "Moore"
+    },
+    {
+      "city": "Pinehurst",
+      "county": "Moore"
+    },
+    {
+      "city": "Pinetops",
+      "county": "Edgecombe"
+    },
+    {
+      "city": "Pineville",
+      "county": "Mecklenburg"
+    },
+    {
+      "city": "Pink Hill",
+      "county": "Lenoir"
+    },
+    {
+      "city": "Pittsboro",
+      "county": "Chatham"
+    },
+    {
+      "city": "Pleasant Garden",
+      "county": "Guilford"
+    },
+    {
+      "city": "Plymouth",
+      "county": "Washington"
+    },
+    {
+      "city": "Polkton",
+      "county": "Anson"
+    },
+    {
+      "city": "Polkville",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Pollocksville",
+      "county": "Jones"
+    },
+    {
+      "city": "Powellsville",
+      "county": "Bertie"
+    },
+    {
+      "city": "Princeton",
+      "county": "Johnston"
+    },
+    {
+      "city": "Princeville",
+      "county": "Edgecombe"
+    },
+    {
+      "city": "Proctorville",
+      "county": "Robeson"
+    },
+    {
+      "city": "Raeford",
+      "county": "Hoke"
+    },
+    {
+      "city": "Raleigh",
+      "county": "Wake"
+    },
+    {
+      "city": "Ramseur",
+      "county": "Randolph"
+    },
+    {
+      "city": "Randleman",
+      "county": "Randolph"
+    },
+    {
+      "city": "Ranlo",
+      "county": "Gaston"
+    },
+    {
+      "city": "Raynham",
+      "county": "Robeson"
+    },
+    {
+      "city": "Red Cross",
+      "county": "Stanly"
+    },
+    {
+      "city": "Red Oak",
+      "county": "Nash"
+    },
+    {
+      "city": "Red Springs",
+      "county": "Robeson"
+    },
+    {
+      "city": "Reidsville",
+      "county": "Rockingham"
+    },
+    {
+      "city": "Rennert",
+      "county": "Robeson"
+    },
+    {
+      "city": "Rhodhiss",
+      "county": "Burke/Caldwell"
+    },
+    {
+      "city": "Rich Square",
+      "county": "Northampton"
+    },
+    {
+      "city": "Richfield",
+      "county": "Stanly"
+    },
+    {
+      "city": "Richlands",
+      "county": "Onslow"
+    },
+    {
+      "city": "River Bend",
+      "county": "Craven"
+    },
+    {
+      "city": "Roanoke Rapids",
+      "county": "Halifax"
+    },
+    {
+      "city": "Robbins",
+      "county": "Moore"
+    },
+    {
+      "city": "Robbinsville",
+      "county": "Graham"
+    },
+    {
+      "city": "Robersonville",
+      "county": "Martin"
+    },
+    {
+      "city": "Rockingham",
+      "county": "Richmond"
+    },
+    {
+      "city": "Rockwell",
+      "county": "Rowan"
+    },
+    {
+      "city": "Rocky Mount",
+      "county": "Nash/Edgecombe"
+    },
+    {
+      "city": "Rolesville",
+      "county": "Wake"
+    },
+    {
+      "city": "Ronda",
+      "county": "Wilkes"
+    },
+    {
+      "city": "Roper",
+      "county": "Washington"
+    },
+    {
+      "city": "Rose Hill",
+      "county": "Duplin"
+    },
+    {
+      "city": "Roseboro",
+      "county": "Sampson"
+    },
+    {
+      "city": "Rosman",
+      "county": "Transylvania"
+    },
+    {
+      "city": "Rowland",
+      "county": "Robeson"
+    },
+    {
+      "city": "Roxboro",
+      "county": "Person"
+    },
+    {
+      "city": "Roxobel",
+      "county": "Bertie"
+    },
+    {
+      "city": "Rural Hall",
+      "county": "Forsyth"
+    },
+    {
+      "city": "Ruth",
+      "county": "Rutherford"
+    },
+    {
+      "city": "Rutherford College",
+      "county": "Burke"
+    },
+    {
+      "city": "Rutherfordton",
+      "county": "Rutherford"
+    },
+    {
+      "city": "Saint Helena",
+      "county": "Pender"
+    },
+    {
+      "city": "Saint James",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Saint Pauls",
+      "county": "Robeson"
+    },
+    {
+      "city": "Salemburg",
+      "county": "Sampson"
+    },
+    {
+      "city": "Salisbury",
+      "county": "Rowan"
+    },
+    {
+      "city": "Saluda",
+      "county": "Polk/Henderson"
+    },
+    {
+      "city": "Sandy Creek",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Sandyfield",
+      "county": "Columbus"
+    },
+    {
+      "city": "Sanford",
+      "county": "Lee"
+    },
+    {
+      "city": "Saratoga",
+      "county": "Wilson"
+    },
+    {
+      "city": "Sawmills",
+      "county": "Caldwell"
+    },
+    {
+      "city": "Scotland Neck",
+      "county": "Halifax"
+    },
+    {
+      "city": "Seaboard",
+      "county": "Northampton"
+    },
+    {
+      "city": "Seagrove",
+      "county": "Randolph"
+    },
+    {
+      "city": "Sedalia",
+      "county": "Guilford"
+    },
+    {
+      "city": "Selma",
+      "county": "Johnston"
+    },
+    {
+      "city": "Seven Devils",
+      "county": "Watauga/Avery"
+    },
+    {
+      "city": "Seven Springs",
+      "county": "Wayne"
+    },
+    {
+      "city": "Severn",
+      "county": "Northampton"
+    },
+    {
+      "city": "Shallotte",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Sharpsburg",
+      "county": "Nash/Wilson/Edgecombe"
+    },
+    {
+      "city": "Shelby",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Siler City",
+      "county": "Chatham"
+    },
+    {
+      "city": "Simpson",
+      "county": "Pitt"
+    },
+    {
+      "city": "Sims",
+      "county": "Wilson"
+    },
+    {
+      "city": "Smithfield",
+      "county": "Johnston"
+    },
+    {
+      "city": "Snow Hill",
+      "county": "Greene"
+    },
+    {
+      "city": "Southern Pines",
+      "county": "Moore"
+    },
+    {
+      "city": "Southern Shores",
+      "county": "Dare"
+    },
+    {
+      "city": "Southport",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Sparta",
+      "county": "Alleghany"
+    },
+    {
+      "city": "Speed",
+      "county": "Edgecombe"
+    },
+    {
+      "city": "Spencer",
+      "county": "Rowan"
+    },
+    {
+      "city": "Spencer Mountain",
+      "county": "Gaston"
+    },
+    {
+      "city": "Spindale",
+      "county": "Rutherford"
+    },
+    {
+      "city": "Spring Hope",
+      "county": "Nash"
+    },
+    {
+      "city": "Spring Lake",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Spruce Pine",
+      "county": "Mitchell"
+    },
+    {
+      "city": "Staley",
+      "county": "Randolph"
+    },
+    {
+      "city": "Stallings",
+      "county": "Union"
+    },
+    {
+      "city": "Stanfield",
+      "county": "Cabarrus/Stanly"
+    },
+    {
+      "city": "Stanley",
+      "county": "Gaston"
+    },
+    {
+      "city": "Stantonsburg",
+      "county": "Wilson"
+    },
+    {
+      "city": "Star",
+      "county": "Montgomery"
+    },
+    {
+      "city": "Statesville",
+      "county": "Iredell"
+    },
+    {
+      "city": "Stedman",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Stem ",
+      "county": "Granville"
+    },
+    {
+      "city": "Stokesdale",
+      "county": "Guilford"
+    },
+    {
+      "city": "Stoneville",
+      "county": "Rockingham"
+    },
+    {
+      "city": "Stonewall",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Stovall",
+      "county": "Granville"
+    },
+    {
+      "city": "Sugar Mountain",
+      "county": "Avery"
+    },
+    {
+      "city": "Summerfield",
+      "county": "Guilford"
+    },
+    {
+      "city": "Sunset Beach",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Surf City",
+      "county": "Onslow/Pender"
+    },
+    {
+      "city": "Swansboro",
+      "county": "Onslow"
+    },
+    {
+      "city": "Swepsonville",
+      "county": "Alamance"
+    },
+    {
+      "city": "Sylva",
+      "county": "Jackson"
+    },
+    {
+      "city": "Tabor City",
+      "county": "Columbus"
+    },
+    {
+      "city": "Tar Heel",
+      "county": "Bladen"
+    },
+    {
+      "city": "Tarboro",
+      "county": "Edgecombe"
+    },
+    {
+      "city": "Taylorsville",
+      "county": "Alexander"
+    },
+    {
+      "city": "Taylortown",
+      "county": "Moore"
+    },
+    {
+      "city": "Teachey",
+      "county": "Duplin"
+    },
+    {
+      "city": "Thomasville",
+      "county": "Davidson"
+    },
+    {
+      "city": "Tobaccoville",
+      "county": "Forsyth"
+    },
+    {
+      "city": "Topsail Beach",
+      "county": "Pender"
+    },
+    {
+      "city": "Trent Woods",
+      "county": "Craven"
+    },
+    {
+      "city": "Trenton",
+      "county": "Jones"
+    },
+    {
+      "city": "Trinity",
+      "county": "Randolph"
+    },
+    {
+      "city": "Troutman",
+      "county": "Iredell"
+    },
+    {
+      "city": "Troy",
+      "county": "Montgomery"
+    },
+    {
+      "city": "Tryon",
+      "county": "Polk"
+    },
+    {
+      "city": "Turkey",
+      "county": "Sampson"
+    },
+    {
+      "city": "Unionville",
+      "county": "Union"
+    },
+    {
+      "city": "Valdese",
+      "county": "Burke"
+    },
+    {
+      "city": "Vanceboro",
+      "county": "Craven"
+    },
+    {
+      "city": "Vandemere",
+      "county": "Pamlico"
+    },
+    {
+      "city": "Varnamtown",
+      "county": "Brunswick"
+    },
+    {
+      "city": "Vass",
+      "county": "Moore"
+    },
+    {
+      "city": "Waco",
+      "county": "Cleveland"
+    },
+    {
+      "city": "Wade",
+      "county": "Cumberland"
+    },
+    {
+      "city": "Wadesboro",
+      "county": "Anson"
+    },
+    {
+      "city": "Wagram",
+      "county": "Scotland"
+    },
+    {
+      "city": "Wake Forest",
+      "county": "Wake"
+    },
+    {
+      "city": "Walkertown",
+      "county": "Forsyth"
+    },
+    {
+      "city": "Wallace",
+      "county": "Duplin/Pender"
+    },
+    {
+      "city": "Wallburg",
+      "county": "Davidson"
+    },
+    {
+      "city": "Walnut Cove",
+      "county": "Stokes"
+    },
+    {
+      "city": "Walnut Creek",
+      "county": "Wayne"
+    },
+    {
+      "city": "Walstonburg",
+      "county": "Greene"
+    },
+    {
+      "city": "Warrenton",
+      "county": "Warren"
+    },
+    {
+      "city": "Warsaw",
+      "county": "Duplin"
+    },
+    {
+      "city": "Washington",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Washington Park",
+      "county": "Beaufort"
+    },
+    {
+      "city": "Watha",
+      "county": "Pender"
+    },
+    {
+      "city": "Waxhaw",
+      "county": "Union"
+    },
+    {
+      "city": "Waynesville",
+      "county": "Haywood"
+    },
+    {
+      "city": "Weaverville",
+      "county": "Buncombe"
+    },
+    {
+      "city": "Webster",
+      "county": "Jackson"
+    },
+    {
+      "city": "Weddington",
+      "county": "Mecklenburg/Union"
+    },
+    {
+      "city": "Weldon",
+      "county": "Halifax"
+    },
+    {
+      "city": "Wendell",
+      "county": "Wake"
+    },
+    {
+      "city": "Wentworth",
+      "county": "Rockingham"
+    },
+    {
+      "city": "Wesley Chapel",
+      "county": "Union"
+    },
+    {
+      "city": "West Jefferson",
+      "county": "Ashe"
+    },
+    {
+      "city": "Whispering Pines",
+      "county": "Moore"
+    },
+    {
+      "city": "Whitakers",
+      "county": "Edgecombe/Nash"
+    },
+    {
+      "city": "White Lake",
+      "county": "Bladen"
+    },
+    {
+      "city": "Whiteville",
+      "county": "Columbus"
+    },
+    {
+      "city": "Whitsett",
+      "county": "Guilford"
+    },
+    {
+      "city": "Wilkesboro",
+      "county": "Wilkes"
+    },
+    {
+      "city": "Williamston",
+      "county": "Martin"
+    },
+    {
+      "city": "Wilmington",
+      "county": "New Hanover"
+    },
+    {
+      "city": "Wilson",
+      "county": "Wilson"
+    },
+    {
+      "city": "Wilson's Mills",
+      "county": "Johnston"
+    },
+    {
+      "city": "Windsor",
+      "county": "Bertie"
+    },
+    {
+      "city": "Winfall",
+      "county": "Perquimans"
+    },
+    {
+      "city": "Wingate",
+      "county": "Union"
+    },
+    {
+      "city": "Winston-Salem",
+      "county": "Forsyth"
+    },
+    {
+      "city": "Winterville",
+      "county": "Pitt"
+    },
+    {
+      "city": "Winton",
+      "county": "Hertford"
+    },
+    {
+      "city": "Woodfin",
+      "county": "Buncombe"
+    },
+    {
+      "city": "Woodland",
+      "county": "Northampton"
+    },
+    {
+      "city": "Wrightsville Beach",
+      "county": "New Hanover"
+    },
+    {
+      "city": "Yadkinville",
+      "county": "Yadkin"
+    },
+    {
+      "city": "Yanceyville",
+      "county": "Caswell"
+    },
+    {
+      "city": "Youngsville",
+      "county": "Franklin"
+    },
+    {
+      "city": "Zebulon",
+      "county": "Wake"
+    }
+  ]
+}
