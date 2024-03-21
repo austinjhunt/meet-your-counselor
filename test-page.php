@@ -2053,7 +2053,7 @@
                                             <p>If you are unable to find your counselor, call <a href="tel:8439535670">843.953.5670</a> or email <a href="mailto:admissions@cofc.edu">admissions@cofc.edu</a> to connect with the Office of Admissions.</p>
                                         </div>
                                         <link href="https://charleston.edu/static/css/style.css" rel="stylesheet" />
-                                        <script src="/counselors/meet-your-counselor/index-redesign.js" type="text/javascript"></script>
+                                        <script src="/counselors/meet-your-counselor/index.js" type="text/javascript"></script>
 
 
                                     </div>
